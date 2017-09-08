@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_attraction"
+            android:icon="@drawable/ic_attraction"
+            android:title="Attractions" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/ic_hotel"
+            android:title="Hotels" />
+        <item
+            android:id="@+id/nav_airport"
+            android:icon="@drawable/ic_airport"
+            android:title="Airport" />
+        <item
+            android:id="@+id/nav_mall"
+            android:icon="@drawable/ic_mall"
+            android:title="Malls" />
+    </group>
+
+
+
+</menu>
